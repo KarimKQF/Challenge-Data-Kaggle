@@ -1,0 +1,17 @@
+# Global
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.vscode/
+
+# Data Limits (GitHub has 100MB limit)
+*.csv
+*.parquet
+*.h5
+*.pkl
+data/
+outputs/
+
+# Exceptions (if you want to track specific small CSVs, uncomment below)
+# !Kaggle/some_small_file.csv

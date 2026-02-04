@@ -1,0 +1,42 @@
+[2026-01-29 23:01:50] ✅ Training report
+
+=== Key metrics ===
+best_iteration: 168
+kaggle_like_score: 0.817861
+weighted_RMSE: 0.001694
+weighted_MAE: 0.000325
+
+📊 Residuals (y_true - y_pred) Statistics:
+count    5.323030e+05
+mean    -6.138901e-02
+std      1.491420e+01
+min     -5.317976e+02
+25%     -1.015558e-01
+50%     -1.589748e-04
+75%      8.459183e-02
+max      4.707503e+02
+
+📊 Predictions (val) Statistics:
+count    5.323030e+05
+mean    -8.953338e-01
+std      2.147237e+01
+min     -2.616564e+02
+25%     -1.681046e-01
+50%     -9.166976e-04
+75%      3.640675e-02
+max      2.893856e+02
+
+📊 Targets (val) Statistics:
+count    5.323030e+05
+mean    -9.567229e-01
+std      2.738445e+01
+min     -6.869155e+02
+25%     -2.535076e-01
+50%     -1.369099e-03
+75%      8.948055e-02
+max      5.953699e+02
+
+=== Notes ===
+Temporal cutoff ts_index = 3286
+Train rows = 4805111 | Val rows = 532303
+Num features = 103

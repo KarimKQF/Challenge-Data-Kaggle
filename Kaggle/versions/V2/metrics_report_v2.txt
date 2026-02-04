@@ -1,0 +1,17 @@
+[2026-01-30 22:00:47] XGBoost GPU Report
+
+=== Key Metrics ===
+best_iteration: 8
+kaggle_like_score: 0.085656
+
+=== Parameters ===
+learning_rate: 0.02
+max_depth: 12
+min_child_weight: 100
+subsample: 0.8
+colsample_bytree: 0.8
+
+=== Data ===
+Train rows: 4,805,111
+Val rows: 532,303
+Features: 90
