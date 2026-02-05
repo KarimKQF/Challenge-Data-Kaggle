@@ -6,7 +6,6 @@ venv/
 .env
 
 # Data
-*.csv
 *.parquet
 *.h5
 *.pkl
