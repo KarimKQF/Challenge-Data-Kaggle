@@ -6,7 +6,7 @@ __pycache__/
 .vscode/
 
 # Data Limits (GitHub has 100MB limit)
-*.csv
+*
 *.parquet
 *.h5
 *.pkl
